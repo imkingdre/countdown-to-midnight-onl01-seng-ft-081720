@@ -1,4 +1,5 @@
-x = 0
 
-def countdown
+
+def countdown(num)
+  
 end
